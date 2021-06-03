@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Info-page/static/css/main.d93cc6b2.chunk.css",
+    "main.js": "/Info-page/static/js/main.288c31d5.chunk.js",
+    "main.js.map": "/Info-page/static/js/main.288c31d5.chunk.js.map",
+    "runtime-main.js": "/Info-page/static/js/runtime-main.e2640fab.js",
+    "runtime-main.js.map": "/Info-page/static/js/runtime-main.e2640fab.js.map",
+    "static/js/2.2a553571.chunk.js": "/Info-page/static/js/2.2a553571.chunk.js",
+    "static/js/2.2a553571.chunk.js.map": "/Info-page/static/js/2.2a553571.chunk.js.map",
+    "static/js/3.6c611ea4.chunk.js": "/Info-page/static/js/3.6c611ea4.chunk.js",
+    "static/js/3.6c611ea4.chunk.js.map": "/Info-page/static/js/3.6c611ea4.chunk.js.map",
+    "index.html": "/Info-page/index.html",
+    "static/css/main.d93cc6b2.chunk.css.map": "/Info-page/static/css/main.d93cc6b2.chunk.css.map",
+    "static/js/2.2a553571.chunk.js.LICENSE.txt": "/Info-page/static/js/2.2a553571.chunk.js.LICENSE.txt",
+    "static/media/discordIcon.9e567c0f.webp": "/Info-page/static/media/discordIcon.9e567c0f.webp",
+    "static/media/githubIcon.b6522b6a.png": "/Info-page/static/media/githubIcon.b6522b6a.png",
+    "static/media/logo.6ce24c58.svg": "/Info-page/static/media/logo.6ce24c58.svg",
+    "static/media/twitterIcon.57573394.png": "/Info-page/static/media/twitterIcon.57573394.png",
+    "static/media/youtubeIcon.6f9e32ba.png": "/Info-page/static/media/youtubeIcon.6f9e32ba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2640fab.js",
+    "static/js/2.2a553571.chunk.js",
+    "static/css/main.d93cc6b2.chunk.css",
+    "static/js/main.288c31d5.chunk.js"
+  ]
+}
